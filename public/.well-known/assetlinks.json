@@ -1,0 +1,14 @@
+[
+  {
+      "relation": [
+          "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+          "namespace": "android_app",
+          "package_name": "com.isosistemas.teensocial",
+          "sha256_cert_fingerprints": [
+              "AB:98:59:0E:E3:39:46:EF:4E:AD:1D:A9:7E:4A:1E:1D:E3:91:84:49:AA:A2:9D:A0:7F:29:4C:A4:2D:BF:EE:81"
+          ]
+      }
+  }
+]
